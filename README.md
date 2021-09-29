@@ -9,7 +9,6 @@
 <hr>
 <h2>📊 My Github Stats </h2>
   <div align="center">
-  <a href="https://beacons.ai/IsraelSantizo98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsraelSantizo98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelSantizo98&layout=compact&langs_count=7&theme=dark"/>
   </div>
